@@ -26,16 +26,16 @@ global.ig = '@hikal857' // ubah aja
 global.email = 'denyp857@gmail.com'
 global.region = 'indonesia'
 //—————「 Set Nama Own & Bot 」—————//
-global.ownername = 'banghw☆' //ubah jadi nama mu, note tanda ' gausah di hapus!
-global.botname = 'banghw☆' //ubah jadi nama bot mu, note tanda ' gausah di hapus!
-global.footer = 'banghw☆' //ubah jadi nama mu, note tanda ' gausah di hapus!
+global.ownername = 'GAZBOT' //ubah jadi nama mu, note tanda ' gausah di hapus!
+global.botname = 'GAZBOT' //ubah jadi nama bot mu, note tanda ' gausah di hapus!
+global.footer = 'GAZBOT' //ubah jadi nama mu, note tanda ' gausah di hapus!
 //=================================================//
 // Other
-global.owner = ['6281214281312'] // ubah aja pake nomor lu
-global.premium = ['6281214281312'] // ubah aja pake nomor lu
-global.packname = 'banghw☆' // ubah aja
-global.ownerr = ['banghw☆'] // ubaha aja
-global.author = 'banghw☆' //ubah aja
+global.owner = ['62882006726140','6288973746471'] // ubah aja pake nomor lu
+global.premium = ['62882006726140','6288973746471'] // ubah aja pake nomor lu
+global.packname = 'GAZBOT' // ubah aja
+global.ownerr = ['GAZBOT'] // ubaha aja
+global.author = 'GAZBOT' //ubah aja
 global.sessionName = 'haikal' //Gausaj Di Ubah
 global.prefa = ['','!','.',',','🐤','🗿'] // Gausah Mendingan 
 global.sp = '⭔' // Gausah Juga
@@ -58,7 +58,7 @@ global.f6 = 'application/vnd.android.package-archive'
 //=================================================//
 global.limitawal = {
     premium: "Infinity",
-    free: 100
+    free: 1000
 }
 //=================================================//
 //Terserah Kalau Paham 
